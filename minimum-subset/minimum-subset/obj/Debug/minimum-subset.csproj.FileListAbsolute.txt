@@ -1,0 +1,6 @@
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\bin\Debug\minimum-subset.exe.config
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\bin\Debug\minimum-subset.exe
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\bin\Debug\minimum-subset.pdb
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\obj\Debug\minimum-subset.csprojResolveAssemblyReference.cache
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\obj\Debug\minimum-subset.exe
+c:\users\ad20271\documents\visual studio 2015\Projects\minimum-subset\minimum-subset\obj\Debug\minimum-subset.pdb
